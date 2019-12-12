@@ -1,9 +1,5 @@
-## **PROJETOS** <br> 
+## **PROJETOS** 
 <hr size = 7>
-<br/> <br/>
-<hr width = 50%>
-<br/> <br/>
-<hr width = 30% align = right noshade> <br><br>  
 ### **DYNASIM III - PETROBRAS/LCCV: Computational methods for mooring lines and risers analysis in DYNASIM software (DOOLINES Module)**
 
 ### Descrição:
