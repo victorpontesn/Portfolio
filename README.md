@@ -1,4 +1,4 @@
-## **PROJETOS** 
+# **PROJETOS** 
 <hr size = "7">
 <br>
 ### **DYNASIM III - PETROBRAS/LCCV: Computational methods for mooring lines and risers analysis in DYNASIM software (DOOLINES Module)**
@@ -18,5 +18,5 @@ Apesar do expressivo desenvolvimento das metodologias de projeto de sistemas de 
 Esta atividade, portanto, teve como objetivo avaliar a influência deste fenômeno na vida útil à fadiga de linhas de ancoragem. Como resultado do trabalho foi proposta uma nova metodologia para avaliação de vida à fadiga de linhas de ancoragem, baseada na Bureau Veritas NI604, e ainda, o desenvolvimento de uma ferramenta computacional que possibilita a predição de vida à fadiga de linhas de ancoragem segundo a metodologia proposta por meio do pós processamento de séries temporais das análises dinâmicas das linhas, fornecidas pelo sistema DYNASIM. </p>
 
 <a href="http://webserver2.tecgraf.puc-rio.br/~lula/manual/dynasim.pdf">Sobre o DYNASIM</a><br>
-<a href="http://webserver2.tecgraf.puc-rio.br/~lula/manual/dynasim.pdf">Abstract: Out-of-Plane Bending</a><br>
-<a href="http://webserver2.tecgraf.puc-rio.br/~lula/manual/dynasim.pdf">A Influência da Flexão Fora do Plano na Vida à Fadiga de Linhas de Ancoragem</a>
+<a href="https://github.com/victor-pontes/Portfolio/raw/master/RAA-2018-VICTOR.pdf">Abstract RAA: Out-of-Plane Bending</a><br>
+<a href="https://github.com/victor-pontes/Portfolio/raw/master/TCC%20VAPSN%20vFinal.pdf">A Influência da Flexão Fora do Plano na Vida à Fadiga de Linhas de Ancoragem (TCC)</a>
