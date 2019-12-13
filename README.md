@@ -28,5 +28,5 @@ Segundo a OMS, uma a cada onze pessoas no mundo, têm diabetes, e ao que indicam
 Iniciada em 2018, a startup tem como produto uma ferramenta capaz de prever o risco de uma pessoa desenvolver diabetes mellitus do tipo 2 utilizando inteligência artificial. Os fundadores entendem que o pré-diagnóstico proporciona a possibilidade da adoção de medidas preventivas eficazes. Foi com esse projeto que a Blue foi a grande vencedora do prêmio HackBrazil na Brazil Conferent at Havard & MIT, que ocorreu entre os dias 5 e 7 de abril em Boston. Posteriormente em uma recente apresentação no Nubank ML Meetup os fundadores apresentaram parte de sua estratégia implementada com base nos dados inquérito VIGITEL Brasil  <a href="https://www.youtube.com/watch?v=q25e-W-Z1vQ&t=1563s">(ver meetup)</a>.<br>
 Portanto, neste breve projeto particular, apresento um modelo de predição de diabetes com base no VIGITEL Brasil 2017, inspirado na ferramenta da startup Blue.</p>
 
-<a href="https://github.com/victor-pontes/Portfolio/blob/master/Prevendo%20Diabetes/Predicao_diabetes.ipynb">(Ver Notebook)</a><br>
-<a href="https://github.com/victor-pontes/Portfolio/tree/master/Prevendo%20Diabetes">(Project Folder)</a><br>
+<a href="https://github.com/victor-pontes/Portfolio/blob/master/Prevendo%20Diabetes/Predicao_diabetes.ipynb">Ver Notebook</a><br>
+<a href="https://github.com/victor-pontes/Portfolio/tree/master/Prevendo%20Diabetes">Project Folder</a><br>
